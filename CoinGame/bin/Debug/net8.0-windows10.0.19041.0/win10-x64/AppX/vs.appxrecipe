@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-02T01:45:11.096</Modified>
+      <Modified>2024-04-09T00:20:45.940</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-04-02T01:43:45.081</Modified>
+      <Modified>2024-04-08T23:52:37.341</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CoinGame.runtimeconfig.json">
       <PackagePath>CoinGame.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CoinGame.dll">
       <PackagePath>CoinGame.dll</PackagePath>
-      <Modified>2024-04-02T01:45:10.853</Modified>
+      <Modified>2024-04-09T00:19:53.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>CoinGame.exe</PackagePath>
-      <Modified>2024-04-02T01:45:10.853</Modified>
+      <Modified>2024-04-09T00:19:53.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -82,209 +82,213 @@
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-04-02T01:27:53.315</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
-      <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-04-02T01:28:10.818</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+      <Modified>2024-04-08T23:47:51.089</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
-      <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.267</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+      <Modified>2024-04-08T23:47:51.003</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
-      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.290</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+      <Modified>2024-04-08T23:47:50.988</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
-      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.313</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+      <Modified>2024-04-08T23:47:50.972</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
-      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.346</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+      <Modified>2024-04-08T23:47:50.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bat.scale-100.png">
+      <PackagePath>dotnet_bat.scale-100.png</PackagePath>
+      <Modified>2024-04-09T00:20:42.525</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-04-02T01:28:11.473</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.941</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.346</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.947</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.313</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.972</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.290</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.953</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.959</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.905</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.911</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.936</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.916</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.922</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
-      <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.831</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
-      <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.838</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
-      <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.844</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
-      <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.852</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
-      <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.862</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
-      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.868</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
-      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.874</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
-      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.901</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
-      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.881</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
-      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.887</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
-      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.058</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
-      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.068</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
-      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.079</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
-      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.094</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
-      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.125</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
-      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.014</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
-      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.020</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
-      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.027</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
-      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.035</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
-      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.049</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
-      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.979</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
-      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.985</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
-      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.992</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
-      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.998</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
-      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.008</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
-      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.135</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
-      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.148</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
-      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.168</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
-      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-04-02T01:28:11.191</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+      <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.267</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-04-02T01:28:11.252</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.821</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.191</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.832</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.168</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.845</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.148</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.870</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.135</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-04-02T01:28:10.945</Modified>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
+      <Modified>2024-04-02T01:28:11.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+      <PackagePath>appiconLogo.scale-400.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+      <PackagePath>appiconLogo.scale-200.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+      <PackagePath>appiconLogo.scale-150.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+      <PackagePath>appiconLogo.scale-125.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+      <PackagePath>appiconLogo.scale-100.png</PackagePath>
+      <Modified>2024-04-02T01:28:10.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+      <PackagePath>appicon.ico</PackagePath>
+      <Modified>2024-04-02T01:28:10.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS -EVB\PAM\CoinGame\CoinGame\CoinGame\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CoinGame.deps.json">
       <PackagePath>CoinGame.deps.json</PackagePath>

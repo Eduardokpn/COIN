@@ -17,6 +17,13 @@
                 x:Name="value"
             />
 
+            <Image 
+                    WidthRequest="100"
+                   Source="dotnet_bot.png"
+                   x:Name="ImageCoin"
+                   
+                   />
+
             <Picker x:Name="picker">
                 <Picker.ItemsSource>
                     <x:Array Type="{x:Type x:String}">
@@ -25,6 +32,11 @@
                     </x:Array>
                 </Picker.ItemsSource>
             </Picker>
+
+            <Label 
+                Text="moeda Valor"
+                x:Name="ValueCoin"
+                />
 
             <Button
                 Text="Jogue a Moeda"

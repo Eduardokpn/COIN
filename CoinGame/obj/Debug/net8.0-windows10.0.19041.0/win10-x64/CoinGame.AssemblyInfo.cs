@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoinGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ddfe885550363d4dacaad4f8f5badce78286120c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoinGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoinGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
